@@ -11,7 +11,7 @@ logging.basicConfig(
 )
 
 try:
-    API_KEY = os.getenv("WEATHER_API_KEY")
+    API_KEY = os.getenv("OPENWEATHER_API_KEY")
     CITY = "Delhi"
 
     url = f"http://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={API_KEY}&units=metric"
