@@ -50,6 +50,19 @@ python src/main.py
 
 Structured job data stored in PostgreSQL, ready for analysis.
 
+Below is a snapshot of processed weather data stored in PostgreSQL:
+
+
+<img width="935" height="382" alt="image" src="https://github.com/user-attachments/assets/c0414fa9-1e67-4ae5-bf32-e2ede8e0eb12" />
+
+
+| City      | Avg Temperature | Avg Humidity |
+|----------|---------------|-------------|
+| Bangalore | 28.82 | 44.52 |
+| Chennai   | 29.72 | 75.52 |
+| Delhi     | 27.13 | 33.50 |
+| Mumbai    | 29.20 | 63.76 |
+
 ---
 
 ## Author
