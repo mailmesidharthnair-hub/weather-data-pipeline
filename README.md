@@ -1,4 +1,4 @@
-# Automated ETL Pipeline for Job Data
+# Automated ETL Pipeline for Weather Data
 
 ##  Overview
 
@@ -48,7 +48,7 @@ python src/main.py
 
 ## Output
 
-Structured job data stored in PostgreSQL, ready for analysis.
+Structured weather data stored in PostgreSQL, ready for analysis.
 
 Below is a snapshot of processed weather data stored in PostgreSQL:
 
